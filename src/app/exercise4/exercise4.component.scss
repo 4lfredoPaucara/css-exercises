@@ -1,0 +1,29 @@
+.contenedor {
+    display: flex;
+    justify-content: baseline;
+    align-items: baseline;
+}
+.item {
+
+    width: 100px;
+    height: 100px;
+    background-color: lightcoral;
+    text-align: center;
+    line-height: 100px;
+}
+.item2 {
+
+    width: 100px;
+    height: 100px;
+    background-color: rgb(249, 20, 20);
+    text-align: center;
+    line-height: 100px;
+}
+.item3 {
+    
+    width: 100px;
+    height: 100px;
+    background-color: rgb(110, 66, 255);
+    text-align: center;
+    line-height: 100px;
+}

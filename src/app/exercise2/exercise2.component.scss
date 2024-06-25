@@ -1,0 +1,14 @@
+.fondo {
+    width: 600px;
+    height: 600px;
+    background-color: lightblue;
+    background-image: url('/assets/img/022.jpg');
+    background-size: cover;
+    background-position: center;
+}
+
+#pond {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
